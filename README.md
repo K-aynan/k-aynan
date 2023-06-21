@@ -10,8 +10,8 @@ I enjoy AI, blockchains and so on.<br>
 
 <div align="center">
   <a href="https://github.com/ogiansouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaynanka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanka&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-aynan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-aynan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div> 
     <a href = "https://www.linkedin.com/in/kaynan-nascimento-5b0305268/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a> 
