@@ -1,6 +1,6 @@
 Hello everyone, i'm Kaynan and i study CS 
 
-Mostly coding and learning from great courses full stack development Python and Java languages and everything that embraces it.<br>
+Mostly coding and learning from great courses full stack development in Python and Java languages and everything that embraces it.<br>
 
 Struggling a bit to figure stuff out to not be left behind on this vast world of Tech.<br>
        
