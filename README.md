@@ -13,11 +13,22 @@ My first time ever coding was at end of May 2023<br>
 
 I enjoy AI, blockchains and so on.<br>
 
-<div align="center">
-  <a href="https://github.com/ogiansouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-aynan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-aynan&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=k-aynan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-aynan&theme=radical&hide_border=true">		  
+  </a>
+</p><br />
+
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-aynan&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{k-aynan}/count.svg"></p>
     
 <div style="display: inline_block "><br>
   <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,10 +53,12 @@ I enjoy AI, blockchains and so on.<br>
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 </div>
 
-<p align="center">Contact me:</p>
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Contact me
+
+<p align="center"></p>
 <p>
 <div align="center">
-	<a href="nkedin.com/in/kaynan-nascimento-5b0305268/" rel="nofollow">
+	<a href="linkedin.com/in/kaynan-nascimento-5b0305268/" rel="nofollow">
   		<img alt="Kaynan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
