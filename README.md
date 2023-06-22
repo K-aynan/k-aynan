@@ -1,3 +1,8 @@
+p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Torrin.;I+love+open-source.;I+enjoy+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
+
+
 Hello everyone, i'm Kaynan and i study CS 
 
 Mostly coding and learning from great courses full stack development in Python and Java languages and everything that embraces it.<br>
