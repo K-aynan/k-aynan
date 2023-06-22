@@ -58,7 +58,7 @@ I enjoy AI, blockchains and so on.<br>
 <p align="center"></p>
 <p>
 <div align="center">
-	<a href="linkedin.com/in/kaynan-nascimento-5b0305268/" rel="nofollow">
+	<a href="https://www.linkedin.com/in/kaynan-nascimento-5b0305268/" rel="nofollow">
   		<img alt="Kaynan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
