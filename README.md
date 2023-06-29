@@ -30,7 +30,7 @@ I enjoy AI, blockchains and so on.<br>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{k-aynan}/count.svg"></p>
     
-<div style="display: grid; grid-template-columns: 1fr; gap: 24px "><br>
+<div style="display: inline-block "><br>
   <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
