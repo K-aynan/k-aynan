@@ -53,14 +53,3 @@ I enjoy AI, blockchains and so on.<br>
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 	  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Contact me
-
-<p align="center"></p>
-<p>
-<div align="center">
-	<a href="https://www.linkedin.com/in/kaynan-nascimento-5b0305268/" rel="nofollow">
-  		<img alt="Kaynan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	</a>
-</div>
-</p>
