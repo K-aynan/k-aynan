@@ -16,14 +16,14 @@ I enjoy AI, blockchains and so on.<br>
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <p align="left">
-  <a href="http://torrinleonard.com/">
+  <a href="http://www.linkedin.com/in/kaynan-nascimento-5b0305268/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=k-aynan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-aynan&theme=radical&hide_border=true">		  
   </a>
 </p><br />
 
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="http://www.linkedin.com/in/kaynan-nascimento-5b0305268/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-aynan&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
