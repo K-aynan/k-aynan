@@ -27,8 +27,6 @@ I enjoy AI, blockchains and so on.<br>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-aynan&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{k-aynan}/count.svg"></p>
     
 <div style="display: inline-block "><br>
   <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
