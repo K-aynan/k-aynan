@@ -3,7 +3,7 @@
 </p>
 
 
-Hello everyone, i'm Kaynan and i study CS 
+Hello everyone, i'm Kaynan and i study CS
 
 Mostly coding and learning from great courses full stack development in Python everything that embraces it.<br>
 
