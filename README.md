@@ -21,12 +21,6 @@ I enjoy AI, blockchains and so on.<br>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-aynan&theme=radical&hide_border=true">		  
   </a>
 </p><br />
-
-<p align="center">
-  <a href="http://www.linkedin.com/in/kaynan-nascimento-5b0305268/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-aynan&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
-</p>
     
 <div style="display: inline-block "><br>
   <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
